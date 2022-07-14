@@ -1,5 +1,5 @@
 # Cubixworlds
-aka " Game like Growtopia " ultra bad coded game cpu killer 
+aka " Game like Growtopia " 
 
 Client Link : https://www.mediafire.com/file/xq9fgw3txz8xqrn/client.rar/file
 
